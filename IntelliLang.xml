@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="xml">
+      <display-name>provider</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("provider")).withNamespace(string().equalTo("http://java.sun.com/xml/ns/persistence"))]]></place>
+    </injection>
+  </component>
+</application>

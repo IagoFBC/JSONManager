@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.w3.org/2001/XMLSchema‐instance" />
+    <ignored-resource url="http://xmlns.jcp.org/jsf/core" />
+    <ignored-resource url="http://xmlns.jcp.org/jsf/facelets" />
+    <ignored-resource url="http://xmlns.jcp.org/jsf/html" />
+  </component>
+</application>
